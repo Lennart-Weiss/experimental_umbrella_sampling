@@ -5,4 +5,4 @@ This repository contains supplementary Jupyter notebooks and Python code for dat
 **Experimental Umbrella Sampling**  
 https://doi.org/10.64898/2026.10.15.758702
 
-The notebooks can be viewed directly on GitHub.
+The analysis relies on the Python package [`roboarmanalysis`](https://github.com/matvogt/roboarmanalysis), developed by Matthias Vogt.
