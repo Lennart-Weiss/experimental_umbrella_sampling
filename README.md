@@ -1,9 +1,8 @@
 # Experimental Umbrella Sampling
 
-This repository accompanies the bioRxiv preprint *Experimental Umbrella Sampling*.
+This repository contains supplementary Jupyter notebooks and Python code for data analysis and figure generation accompanying the bioRxiv preprint:
 
-It contains the Jupyter notebooks and Python code used for data analysis and figure generation presented in the manuscript.
+**Experimental Umbrella Sampling**  
+https://doi.org/10.64898/2026.10.15.758702
 
-**Preprint:** [Experimental Umbrella Sampling — bioRxiv](https://www.biorxiv.org/)
-
-**Code:** https://github.com/Lennart-Weiss/experimental_umbrella_sampling
+The notebooks can be viewed directly on GitHub.
